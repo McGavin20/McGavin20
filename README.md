@@ -18,6 +18,4 @@ Skills: NODE JS / SWIFT / JS / HTML / CSS/ C/ PYTHON/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=McGavin20&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=McGavin20)  
-
 ![Profile views](https://gpvc.arturio.dev/McGavin20)  
