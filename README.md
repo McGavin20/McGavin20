@@ -5,7 +5,7 @@
 I am an open-source enthusiast.I enjoy working with JavaScript.
 
 
-- 🔭 I’m currently working on a workout app. 
+- 🔭 I’m currently working on a gaming app. 
 - 🌱 I’m currently learning iOS Development. 
 - 💬 Ask me about Frontend Development. 
 - 😄 Pronouns: She/Her. 
