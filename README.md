@@ -6,11 +6,16 @@ I am an open-source enthusiast.I enjoy working with SwiftUI.
 
 
 - 🔭 I’m currently working on a gaming app. 
-- 🌱 I’m currently learning iOS Development. 
-- 💬 Ask me about grit. 
+- 🌱 I’m currently learning the best practices towards working as a remote software developer. 
+- 💬 I'm interested in collaborating and contributing to open source projects. 👯 
 - 😄 Pronouns: She/Her. 
 
+## Interests
 
+- In my spare time, I love playing : Call of Duty & FIFA 🎮
+- Watching movies on : Netflix 🎥
+- Listening to music on : Spotify 🎵
+  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/McGavin20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/McGavin_20)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McGavin20)](https://github.com/anuraghazra/github-readme-stats)
