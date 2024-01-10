@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sharma.
 #### iOS App Developer.
-![iOS App Developer.]
+
 
 I am an open-source enthusiast.I enjoy working with SwiftUI.
 
