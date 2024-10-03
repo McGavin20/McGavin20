@@ -4,8 +4,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a health app.<br>👯 I’m looking to collaborate on iOS and swift projects.<br>🤝 I’m looking for help with iOS app development.<br>🌱 I’m currently learning the best practices towards working as a remote software developer.<br>
-🎮 In my spare time, I love playing : Call of Duty & EA FC.
+🔭 I’m currently working on a healthcare app.<br>👯 I’m looking to collaborate on iOS and swift projects.<br>🤝 I’m looking for help with iOS app development.<br>🌱 I’m currently learning the best practices towards working as a remote software developer.<br>
+🎮 In my spare time, I love playing : Call of Duty & EAFC.
 <br>🎥 Watching movies on : Netflix.
 <br>🎵 Listening to music on : Spotify.
   
